@@ -1,0 +1,17 @@
+# File Renamer Requirements
+# This script uses only Python standard library modules
+# No additional packages required
+
+# Minimum Python version: 3.6+
+# Standard library modules used:
+# - os
+# - shutil  
+# - argparse
+# - datetime
+# - pathlib
+# - logging
+
+# For development/testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0

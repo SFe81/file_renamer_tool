@@ -1,0 +1,6 @@
+This is a sample document to demonstrate the file renaming functionality.
+
+Created on: August 8, 2025
+Purpose: Testing the file_renamer.py script
+
+The script will rename this file by adding its creation date and time as a prefix.
